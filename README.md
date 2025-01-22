@@ -22,3 +22,4 @@ listed  on  Pakistan  stock  exchange  from  the  period  2011  to 2016. Further
 Select * from Table1
 Where Condition = True
 ```
+### Data visual 
