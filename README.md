@@ -7,3 +7,8 @@ Hypotheses of the StudyH1 Financial Reporting Quality has a positive effect on f
 
 ### Data Sources:
 listed  on  Pakistan  stock  exchange  from  the  period  2011  to 2016. Furthermore, this study utilizes the OLS regression model to estimate the dependent and   independent   variable.   The   study   used statistics-basedmodels   to   examine   the independent  variables.  The  result  indicates  that  there  is  a  positive  relation  between financial  reporting  quality 
+
+### Tools Used
+- Excel [download here](http.microsoft.com) 
+- STRUCTURE QUERY LANGUAGE 
+- GIT HUB
