@@ -19,6 +19,6 @@ listed  on  Pakistan  stock  exchange  from  the  period  2011  to 2016. Further
 
 ### Data Analysis 
 ```Sql
-Select * from Table 1
+Select * from Table1
 Where Condition = True
 ```
