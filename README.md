@@ -12,3 +12,7 @@ listed  on  Pakistan  stock  exchange  from  the  period  2011  to 2016. Further
 - Excel [download here](http.microsoft.com) 
 - STRUCTURE QUERY LANGUAGE 
 - GIT HUB
+
+### Data Cleaning and preparation
+1. Data loading and inspection 
+2. Handling missing variables 
